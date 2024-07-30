@@ -1,0 +1,123 @@
+S. NO,STREAM,NAME,PLACE,EXAM,FEES,SPECIALISATION,RANK / CUTOFF,LINK
+,,,,,,,,
+1,ENGINEERING,DELHI TECHNOLOGICAL UNIVERSITY ,DELHI,JEE MAINS,"1-1,63,948",6.8L,ALL ENGG COURSES,www.dtu.ac.in
+2,ENGINEERING,INDIAN INSTITUTE OF TECHNOLOGY,DELHI,JEE ADVANCED,"1-6,278",10L,ALL ENGG COURSES,home.iitd.ac.in
+3,ENGINEERING,INDRAPRASTA INSTITUTE OF INSTITUTE TECHNOLOGY,DELHI,JEE MAINS,"1-13,373",14L,ALL ENGG COURSES,www.iiitd.ac.in
+4,ENGINEERING,NSUT,DELHI,JEE MAINS,"1-71,570",8.44L,ALL ENGG COURSES,www.nsit.ac.in
+5,ENGINEERING,NIT,DELHI,JEE MAINS,"1-12,311",7L,ALL ENGG COURSES,https://nitdelhi.ac.in
+6,ENGINEERING,JADAVPUR UNIVERSITY,KOLKATA,WBJEE,"1-1,529","10,000",ALL ENGG COURSES,www.jaduni.edu.in
+7,ENGINEERING,NARULA INSTITUTE OF TECHNOLOGY,KOLKATA,JEE MAINS OR WBJEE,"1-79,806",5.2L,ALL ENGG COURSES,www.nit.ac.in
+8,ENGINEERING,UNIVERSITY OF CALCUTTA,KOLKATA,WBJEE,"1-1,894","40,000",ALL ENGG COURSES,www.caluniv.ac.in
+9,ENGINEERING,FUTURE INSTITUTE OF ENGINEERING,KOLKATA,WBJEE,"1-19,688",4.5L,ALL ENGG COURSES,https://futureeducation.in
+10,ENGINEERING,GURU NANAK INSTITUTE OF TECHNOLOGY,KOLKATA,JEE MAINS OR WBJEE,"1-21,543",5.2L,ALL ENGG COURSES,https://gnit.ac.in
+11,ARTS,JAMIA MILLIA ISLAMIA UNIVERSITY,DELHI,BOARDS,50%,"52,000",BBA,www.jmi.ac.in
+12,ARTS,Delhi University,DELHI,BOARDS,50%,"85,000",BA,www.du.ac.in
+13,ARTS,ECOLE INTUIT LAB,DELHI,BOARDS,50%,"5,00,000/YR",DIPLOMA,https://ecole-intuit-lab.co.in
+14,ARTS,IGNOU,DELHI,BOARDS,50%,"1,08,000",BBA,http://rckkokatta.ignou.ac.in
+15,ARTS,AAFT,DELHI,BOARDS,50%,"6,54,000","BA-THEATRE,DRAMA",https://aaft.com
+16,ARTS,ASUTOSH COLLEGE,KOLKATA,50% IN BOARDS,50%,"35,000",BSc.General,www.asutoshcollege.in
+17,ARTS,RABINDRA BHARATI UNIVERSITY,KOLKATA,BOARDS,50%,"6,000",BA,https://rbu.ac.in
+18,ARTS,BETHUNE COLLEGE,KOLKATA,BOARDS,50%,"5,000",BSc.General,www.bethunecollege.ac.in
+19,ARTS,LORETO COLLEGE,KOLKATA,BOARDS,50%,"90,000",BA,www.loretocollege.in
+20,ARTS,PRESIDENCY UNIVERSITY,KOLKATA,BOARDS,50%,"10,000",BA,www.presiuniv.ac.in
+21,medical,AIIMS,DELHI,AIIMS MBBS,"1-23,466","7,000",MEDICINE COURSES,www.aiims.edu
+22,medical,MAULANA AZAD,DELHI,NEET,53-90,"16,000",MEDICINE COURSES,www.mamc.ac.in
+23,medical,VMMC,DELHI,NEET,90-163,2L,MEDICINE COURSES,www.vmmc-sjh.nic.in
+24,medical,UCMS,DELHI,NEET,"1-2,975","31,000",MEDICINE COURSES,https://ucms.ac.in
+25,medical,NDMC MEDICAL COLLEGE,DELHI,NEET,"464-7,350","3,01,000",MEDICINE COURSES,www.northmcd.com
+26,medical,IPGMER,KOLKATA,NEET,"1-66,434","47,000",MEDICINE COURSES,www.ipgmer.gov.in
+27,medical,RG KAR MEDICAL COLLEGE,KOLKATA,NEET,"1-73,069","47,020",MEDICINE COURSES,www.rgkarmch.org
+28,medical,NILRATAN SIRCAR,KOLKATA,NEET,"1-81,030","47,100",MEDICINE COURSES,www.nrsmc.edu.in
+29,medical,CALCUTTA NATIONAL,KOLKATA,NEET,"1-68,541","47,000",MEDICINE COURSES,www.cnmckolkata.com
+30,medical,NATIONAL INSTITUTE OF HOMEOPATHY,KOLKATA,NEET,138-720,"1,04,450",MEDICINE COURSES,www.nih.nic.in
+31,COMMERCE,SHRI RAM COLLEGE OF COMMERCE,DELHI,BOARDS,98.62%,"89,000",BA ECONOMICS,www.srcc.edu
+32,COMMERCE,ADITI MAHAVIDYALAYA,DELHI,BOARDS,50%,"16,000",B.COM HONS,https://aditi.du.ac.in
+33,COMMERCE,ACHARYA NARENDRA DEV,DELHI,BOARDS,91.50%,"24,000",B.COM HONS,www.andcollege.du.ac.in
+34,COMMERCE,HINDU COLLEGE,DELHI,BOARDS,97.75%,"53,000",BA ENGLISH,https://hinducollege.ac.in
+35,COMMERCE,HRC,DELHI,BOARDS,98%,"63,000",BA HISTORY,www.hansrajcollege.ac.in
+36,COMMERCE,SCOTTISH CHURCH COLLEGE,KOLKATA,BOARDS,50%,"1,30,000",BCOM ACCOUNTING,www.scottishchurch.ac.in
+37,COMMERCE,PRAFULLA CHANDRA COLLEGE,KOLKATA,BOARDS,50%,"16,000",BCOM HONS,www.prafullachandracollege.ac.in
+38,COMMERCE,CHITTARANJAN COLLEGE,KOLKATA,BOARDS,50%,"11,000",BCOM HONS,www.chittaranjancollege.com
+39,COMMERCE,NIFT,KOLKATA,NIFT KOLKATA,1-1428,11.09L, BDES ACCESSORY DESIGN,https://nift.ac.in
+40,COMMERCE,CHARUCHANDRA COLLEGE,KOLKATA,BOARDS,75%,"12,230",BCOM HONS,www.charuchandracollege.ac.in
+41,ENGINEERING,IISC Bangalore - Indian institute of science,Bangalore,KVPY,1 - 500,1.5 lakhs,all eng courses,https://iisc.ac.in/
+42,ENGINEERING,"IIIT Bangalore - International institute of information technology 
+technology",Bangalore,JEE MAINS,"1 - 9,000",6.4 lakh,all eng courses,https://www.iiitb.ac.in/
+43,ENGINEERING,Bangalore institute of technology,Bangalore,KCET,1 - 11661,2.35 lakhs,all eng courses,https://bit-bangalore.edu.in/
+44,ENGINEERING,Dr Ambedkar institute of technology,Bangalore,JEE MAINS,1 - 26777,1.1 lakh,all eng courses,https://www.drait.edu.in/
+45,ENGINEERING,University Visvesvaraya college of engineering,Bangalore,KCET,1 - 29057,98k,all eng courses,https://uvce.ac.in/
+46,MEDICAL,Bangalore medical college and research institute ,Bangalore,NEET,353 - 1407,3.85 lakhs,MBBS,https://bmcribengaluru.karnataka.gov.in/english
+47,MEDICAL,Kidwai memorial institute of oncology ,Bangalore,NEET,1 TO 9550,1.5 lakhs,oncology ,http://www.kmio.org/college/courses_c.html
+48,MEDICAL,Government homeopathetic medical college,Bangalore,NEET,350/720,1.13 lakhs,BHMS,http://www.ghmcbengaluru.in/
+49,MEDICAL,National institute of mental health and neuro sciences,Bangalore,NIMHANS,80/100,1.8 lakhs,MD Psychiatry ,https://nimhans.ac.in/
+50,MEDICAL,Government dental college and research institute,Bangalore,NEET,147/720,2.68 lakhs,BDS,https://gdcrib.karnataka.gov.in/english
+51,ARTS,Indian institute of management ,Bangalore,IIM CAT,85/198,5.75 lakhs,M Phil/ phd in arts,https://www.iimb.ac.in/home
+52,ARTS,RV university school of design,Bangalore,KCET,"1- 2,700",3.75 lakhs,BA,https://rvu.edu.in/school-of-design/
+53,ARTS,St Joseph's college,Bangalore,SJCET,1 - 41931,1.28 lakhs,BA,https://www.sjc.ac.in/
+54,ARTS,Presidency university,Bangalore,KCET,1 - 27616,1.5 lakhs,BA,https://presidencyuniversity.in/
+55,ARTS,National law school of india university ,Bangalore,CLAT,1 TO 80,2.8 lakhs,LLB,https://www.nls.ac.in/
+56,COMMERCE,Mount carmel college,Bangalore,Board ,75%,65k,B.Com,https://mccblr.edu.in/
+57,COMMERCE,Basaveshwara college,Bangalore,Board ,75%,45k,B.Com,http://www.basaveshwaracollege.org.in/
+58,COMMERCE,Seshadripuram college,Bangalore,Board ,75%,40k,B.Com,https://www.spmcollege.ac.in/
+59,COMMERCE,Sri venkateshwara first grade college,Bangalore,Board ,75%,70k,B.Com,https://sveinstitutions.com/
+60,COMMERCE,Kristu jayanti college,Bangalore,Board ,75%,1.65 lakhs,B.Com,https://kristujayanti.edu.in/
+61,ENGINEERING,IIT Bombay,Mumbai,JEE adv,"1 - 8,834",9 lakhs,all eng courses,https://www.iitb.ac.in/
+62,ENGINEERING,Institute of chemical technology,Mumbai,JEE MAINS,"1 - 10,200",3.4 lakhs,chem engg,https://www.ictmumbai.edu.in/
+63,ENGINEERING,Veermata Jijabai technological institute ,Mumbai,JEE MAINS,"1 - 8,597",3.2 lakhs,civil engg,https://vjti.ac.in/
+64,ENGINEERING,National institute of industrial engineering ,Mumbai,GATE,609/1000,1.1 lakhs,industrial engg ,https://www.nitie.ac.in/
+65,ENGINEERING,Usha mittal institute of technology ,Mumbai,JEE MAINS,"1 - 84,087",4.65 lakhs,comp.sci engg ,https://www.umit.ac.in/
+66,MEDICAL,university of mumbai,Mumbai,NEET,"1 - 19,570",2.65 lakhs,mbbs,https://mu.ac.in/
+67,MEDICAL,KJ Somaiya medical college,Mumbai,NEET,"1 - 23,997",7.5 lakhs,MBBS,https://kjsmc.somaiya.edu.in/
+68,MEDICAL,Grant medical college ,Mumbai,NEET,"1 - 2,828",5.08 lakhs,MBBS,https://ggmcjjh.com/
+69,MEDICAL,lokmanya tilak municipal medical college,Mumbai,NEET,"1 - 5,350",4.83 lakhs,MBBS,http://www.ltmgh.com/
+70,MEDICAL,Seth gordhandas sunderdas medical college,Mumbai,NEET,"1 - 36,838",5.07 lakhs,MBBS,https://www.kem.edu/
+71,ARTS,Jai hind college,Mumbai,JHC-EE,92%,20k,BA,https://www.jaihindcollege.com/
+72,ARTS,kishinchand chellaram college,Mumbai,Board ,75%,1.2 lakhs,BA,https://kccollege.edu.in/
+73,ARTS,Elphinstone college ,Mumbai,Board ,75%,44k,MA,https://www.elphinstone.ac.in/
+74,ARTS,Ramniranjan jhunjhunwala college,Mumbai,Board ,60%,70k,MA,https://www.rjcollege.edu.in/
+75,ARTS,Shailesh J.Mehta school of management,Mumbai,CAT ,90 percentile ,1.85 lakhs,MBA,https://www.som.iitb.ac.in/
+76,COMMERCE,valia college of commerce,Mumbai,Board ,75%,53k,B.Com,https://valiacollege.co.in/
+77,COMMERCE,Narsee monjee college of commerce and economics,Mumbai,Board ,75%,50k,B.Com,https://nmcollege.in/
+78,COMMERCE,mithibai college ,Mumbai,Board ,75%,50k,B.Com,https://mithibai.ac.in/
+79,COMMERCE,B.K Birla college ,Mumbai,Board ,75%,48k ,B.Com,https://www.bkbirlacollegekalyan.com/
+80,COMMERCE,Sydenham college of commerce and economics,Mumbai,Board ,75%,40k,B.Com,http://simsree.org/
+81,Engineering,IIT MADRAS,Chennai,JEE mains/adv,"1-5,900",Rs 1 lakh/year,All engg courses,https://www.iitm.ac.in/
+82,Engineering,CEG GUINDY,Chennai,TNEA,"1-8,000","Rs 50,000/year",All engg courses,https://ceg.annauniv.edu/
+83,Engineering,TANUVAS,Chennai,TANUVAS exam,1-192,"Rs 22,000/year","Food,Poultry,Dairy engg",https://tanuvas.ac.in/
+84,Engineering,IIITDM,Chennai,JEE main,"7,613-37,550",Rs 2 lakh/year,"Csc,ECE,mech",https://www.iiitdm.ac.in/
+85,Engineering,IMU,Chennai,IMU CET,134-177,Rs 3 lakh/year,"Naval Arch,ocean engg,marine engg",https://imu.edu.in/
+86,Medical,GKMC college,Chennai,NEET,"1,576-3,593","Rs 30,000/year",MBBS/MD/MS,http://gkmc.in/
+87,Medical,Stanley Medical college,Chennai,NEET,"858-2,258","Rs 14,000/year",Diploma,http://www.stanleymedicalcollege.ac.in
+88,Medical,GMC college,Chennai,NEET,"2,691-6,096",Rs 62000/year,MBBS/MD/MS,http://www.gmcoge.tn.gov.in
+89,Medical,ESIC med college,Chennai,NEET,"6,743-7,489",Rs 2 lakh/year,Diploma,https://www.esic.nic.in/
+90,Medical,MMC college,Chennai,NEET/ TNPCEE,318-841,Rs 6 lakh/year,MBBS/Diploma,http://www.mmc.ac.in
+91,Arts,Loyala college,Chennai,10+2 marks,N/A,"Rs 12,000/year","Eco,English,",http://www.loyolacollege.edu
+92,Arts,Presidency College,Chennai,10+2 marks,N/A,"Rs 2,000/year","History,Sociology,",https://presidencycollegechennai.ac.in
+93,Arts,Queen Mary’s Clg,Chennai,10+2 marks,N/A,"Rs 2,000/year","French Lit,Tamil",http://www.queenmaryscollege
+94,Arts,SIVET clg,Chennai,10+2 marks,N/A,Rs 1000/year,"History,Political Science,tamil etc.",http://www.sivet.in
+95,Arts,Stella Maris,Chennai,10+2 marks,N/A,Rs 2500/year,"Music,English,",https://stellamariscollege.edu.in
+96,Commerce,DRBCCC,Chennai,10+2 marks,N/A,Rs 1000/year,"General,Acoounting,",https://drbccchinducollege.ac.in
+97,Commerce,DAGAC,Chennai,10+2 marks,N/A,Rs 2000/year,"Finance,Corporate secretaryship",http://www.daga.co.in
+98,Commerce,The New College,Chennai,10+2 marks,N/A,Rs 4000/year,General,https://thenewcollege.edu.in
+99,Commerce,Guru Nanak Clg,Chennai,10+2 marks,N/A,"Rs 25,000/year","General,Acoounting,",https://gurunanakcollege.edu.in
+100,Commerce,JBAS clg,Chennai,10+2 marks,N/A,"Rs 40,000/year","Finance,Corporate secretaryship",https://www.jbascollege.edu.in
+101,Engineering,IIT-H,Hyderabad,JEE main/adv,"191-7,230",Rs 3 lac/year,All engg courses,https://iith.ac.in
+102,Engineering,JNTUH,Hyderabad,TS-EAMCET,"340-60,000",Rs 2 lac/year,All engg courses,https://jntuh.ac.in
+103,Engineering,UCE,Hyderabad,TS-EAMCET,"400-6,200","Rs 30,000/year",All engg courses,http://www.uceou.edu/
+104,Engineering,DCET,Hyderabad,TS-EAMCET,"18,109-77,121","Rs 72,000/year",All engg courses,http://deccancollege.ac.in/
+105,Engineering,OU,Hyderabad,TS-EAMCET,"403-6,190","Rs 10,000/year",All engg courses,https://www.osmania.ac.in
+106,Medical,ESIC ,Hyderabad,NEET,"3,520-6,040",Rs 5 lac/year,MBBS,https://www.esic.nic.in
+107,Medical,AIIMS-H,Hyderabad,NEET,"1-1,010","Rs 6,000/year",MBBS,https://aiimsbibinagar.edu.in
+108,Medical,NIMS,Hyderabad,10+2 marks,N/A,"Rs 50,000/year",Physiotherapy,https://www.nims.edu.in
+109,Medical,OMC,Hyderabad,NEET,"230-3,460","Rs 30,000/year","MBBS,",http://www.osmaniamedicalcollege.org
+110,Medical,Gandhi Medical Clg,Hyderabad,NEET,"300-2,300",Rs 9600/year,"Diploma,MD",https://www.gandhihospital.in
+111,Arts,EFLU,Hyderabad,10+2 marks,N/A,Rs 5300/year,"ENGLISH,ARABIC,",http://www.efluniversity.ac.in
+112,Arts,PSTU,Hyderabad,10+2 marks,N/A,Rs 5800/year,"FRENCH,GERMAN,",http://teluguuniversity.ac.in/
+113,Arts,GCC clg,Hyderabad,+2 marks only,N/A,Rs 4600/year,"RUSSIAN,SPANISH",https://gdcts.cgg.gov.in/charminar.edu
+114,Arts,JNAFAU,Hyderabad,"FADEE,",N/A,"Rs 20,000/year","Painting, Sculpture",https://www.jnafau.ac.in
+115,Arts,UOH,Hyderabad,10+2 marks,N/A,"Rs 30,000/year","BA, MA",https://uohyd.ac.in/
+116,Commerce,MGU,Hyderabad,10+2 marks,N/A,"Rs 30,000/year","Foreign Trade, Advertising etc.",http://www.mguniversity.ac.in/home.php
+117,Commerce,BRAOU,Hyderabad,10+2 marks,N/A,"Rs 2,000/year",Business finance etc.,http://www.braou.ac.in/
+118,Commerce,Nagarjuna govn clg,Hyderabad,10+2 marks,N/A,"Rs 4,500/year","General,CA",https://gdcts.cgg.gov.in/nalgonda.edu
+119,Commerce,IIMC,Hyderabad,10+2 marks,N/A,"Rs 47,500/year","General,CA",http://www.iimchyderabad.com/
+120,Commerce,Nizam clg,Hyderabad,10+2 marks,N/A,"Rs 16,000/year","General,E-commerce",https://nizamcollege.ac.in/
